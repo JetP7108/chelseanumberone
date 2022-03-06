@@ -11,10 +11,10 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "",
-    "PREFIX": "!",
+    "PREFIX": "/",
     "ADMINBOT": [
-        "USERID1",
-        "USERID2"
+        "100047095580136",
+        "100043053455560"
     ],
     "DATABASE": {
         "sqlite": {
